@@ -1,0 +1,5 @@
+Change from clone: >> aoapple.txt
+git add apple.txt
+git commit -m Change from clone
+git push origin master
+echo Change from clone:
